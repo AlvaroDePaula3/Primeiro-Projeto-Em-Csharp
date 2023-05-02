@@ -1,0 +1,8 @@
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\bin\Debug\PrimeiroProjetoEmC#.exe.config
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\bin\Debug\PrimeiroProjetoEmC#.exe
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\bin\Debug\PrimeiroProjetoEmC#.pdb
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\obj\Debug\PrimeiroProjetoEmC#.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\obj\Debug\PrimeiroProjetoEmC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\obj\Debug\PrimeiroProjetoEmC#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\obj\Debug\PrimeiroProjetoEmC#.exe
+C:\Users\alvar\source\repos\PrimeiroProjetoEmC#\PrimeiroProjetoEmC#\obj\Debug\PrimeiroProjetoEmC#.pdb
